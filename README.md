@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-### Software Engineer @ Accenture
+### Software Engineer @ Accenture | Jun 2023 - Present
 * Full Stack Developer contributing to the development of the collection and severance dashboard UI for a utility sector client.
 * Utilized Angular (JavaScript) and Flask (Python), along with Azure cloud services for effective application development.
 * Crafted intuitive user interfaces that enhance user experience and accessibility.
@@ -8,7 +8,7 @@
 * Implemented a centralized download manager for streamlined and efficient data downloads.
 * Significantly enhanced the client's ability to extract actionable insights from raw customer data, driving operational efficiency and informed decision-making.
 
-### Associate Software Engineer @ Accenture
+### Associate Software Engineer @ Accenture | Oct 2021 - May 2023
 * Full Stack Developer with a pivotal role in driving impactful enhancements for client projects.
 * Leveraged expertise in Angular, Bootstrap, and Flask to develop three retail dashboards for billing, payment, and debt management.
 * Delivered enhanced user experiences and robust backend functionality.
