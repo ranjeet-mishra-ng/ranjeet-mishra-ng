@@ -1,5 +1,14 @@
 ## Hi there 👋
 
+### Software Engineer @ Accenture
+* Full Stack Developer contributing to the development of the collection and severance dashboard UI for a utility sector client.
+* Utilized Angular (JavaScript) and Flask (Python), along with Azure cloud services for effective application development.
+* Crafted intuitive user interfaces that enhance user experience and accessibility.
+* Developed APIs for seamless data retrieval from Azure, ensuring efficient data flow.
+* Implemented a centralized download manager for streamlined and efficient data downloads.
+* Significantly enhanced the client's ability to extract actionable insights from raw customer data, driving operational efficiency and informed decision-making.
+
+
 <!--
 **ranjeet-mishra-ng/ranjeet-mishra-ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
